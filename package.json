@@ -26,9 +26,12 @@
     "init-msw": "msw init public/"
   },
   "devDependencies": {
+    "@chromatic-com/storybook": "^1.9.0",
+    "@storybook/addon-a11y": "^8.3.3",
     "@storybook/addon-essentials": "^8.3.2",
     "@storybook/addon-interactions": "^8.3.2",
     "@storybook/addon-links": "^8.3.2",
+    "@storybook/addon-onboarding": "^8.3.2",
     "@storybook/blocks": "^8.3.2",
     "@storybook/react": "^8.3.2",
     "@storybook/react-vite": "^8.3.2",
